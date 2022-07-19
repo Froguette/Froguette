@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Froguette
-- 👀 I’m interested in Programming
-- 🌱 I’m currently learning Java, JS, C# and a bit of Python
+- 👀 I’m interested in Coding
+- 🌱 I’m currently learning JS, C++ and a bit of Python
 - 💞️ I’m looking to collaborate on creating games/apps
 - 📫 How to reach me alexandernuijens@gmail.com
 
